@@ -127,6 +127,8 @@
   flex-direction: column;
   align-items: center;
   max-width: 20%;
+  
+  
 }
 
 .benefit .benefit-img {
@@ -136,7 +138,7 @@
   background-color: red;
   background-size: cover;
   background-position: center;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 
